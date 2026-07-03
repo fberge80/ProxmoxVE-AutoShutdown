@@ -14,5 +14,5 @@ puis le planifier via cron :
     crontab -e  # ajouter : 0 22 * * * /usr/local/sbin/proxmox-shutdown.sh
 
 ## Environnement
-- Proxmox VE 9.1.x
+- Proxmox VE 9
 - Debian 12 (Bookworm)
