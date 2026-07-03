@@ -1,6 +1,6 @@
 # ProxmoxVE-AutoShutdown
 
-Script Bash d'arrêt automatique planifié pour Proxmox VE 9.1.x
+Script Bash d'arrêt automatique planifié pour Proxmox VE 9
 
 ## Contexte
 Homelab personnel Proxmox Virtual Environnement. Le script arrête
